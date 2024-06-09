@@ -1,6 +1,8 @@
 ## Hi there 👋 I am Wei Hao (Ryan)
 
-🔭 I’m currently working on Sports Analytics (Golf) and Quantitative Finance.
+🔭 I’m currently working on 
+<ul>Sports Analytics (Golf)</ul>
+<ul>Quantitative Finance (Research and Trading)</ul>
 <!--
 **ryanng180/ryanng180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
