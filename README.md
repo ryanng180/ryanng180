@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm
 
 <h3 align="center"><a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=81A1C1&random=false&width=500&lines=Ng+Wei+Hao+Ryan;Data+Science%2C+Financial+Engineering%2C+Machine+Learning" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=81A1C1&random=false&width=500&lines=Ng+Wei+Hao+Ryan;Data+Science%2C+FinEng+%2C+Machine+Learning" alt="Typing SVG" /></a>
 </h3>
 
 <h3>🔎 About me :</h3>
