@@ -15,15 +15,10 @@
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=ryanng180&show_icons=true&theme=nord&bg_color=0d1117&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanng180&layout=compact&exclude_repo=Air_Cargo_Forecasting_for_ASEAN&theme=nord&bg_color=0d1117&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanng180&layout=compact&theme=nord&bg_color=0d1117&hide_border=true"/>
   <img src="https://streak-stats.demolab.com?user=ryanng180&hide_border=true&background=EBEBEB00&stroke=81A1C1&ring=81A1C1&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=81A1C1"/>
 </div>
 
-<div align="center">
-  <a href="https://ryanng180.github.io/" ><img src="https://komarev.com/ghpvc/?username=ryanng180&style=for-the-badge&color=81A1C1"/></a>
-</div>
-
-[![ryanng180's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanng180&show_icons=true&theme=noctis_minimus)]
 <!--
 **ryanng180/ryanng180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,4 +32,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# streak
+<div align="center">
+  <a href="https://ryanng180.github.io/" ><img src="https://komarev.com/ghpvc/?username=ryanng180&style=for-the-badge&color=81A1C1"/></a>
+</div>
 -->
