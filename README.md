@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: Golf Analytics
 - 🌱 I’m learning: Quantitative Finance
-- 🗿 Avid reader of philosophy
+- 🗿 I torture myself with philosophy
 - 📧 Reach me at: weihao_ng@mymail.sutd.edu.sg
 
 <h3>📈 Statistics: </h3>
