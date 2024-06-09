@@ -6,12 +6,12 @@
 
 <h3>🔎 About me :</h3>
 
-- 🔭 I’m currently working on: Sports Analytics (Golf)
+- 🔭 I’m currently working on: Golf Analytics
 - 🌱 I’m learning: Quantitative Finance
-- 📖 Insatiable Bookworm
-- 📫 Reach me at: weihao_ng@mymail.sutd.edu.sg
+- 🗿 Avid reader of philosophy
+- 📧 Reach me at: weihao_ng@mymail.sutd.edu.sg
 
-<h3>🔥 Statistics: </h3>
+<h3>📈 Statistics: </h3>
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=ryanng180&show_icons=true&theme=nord&bg_color=0d1117&hide_border=true"/>
